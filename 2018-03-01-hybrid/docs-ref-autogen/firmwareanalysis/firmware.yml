@@ -88,7 +88,7 @@ directCommands:
     summary: |-
       File size of the uploaded firmware image.
   - name: --firmware-id --name -n
-    defaultValue: "99582ab2-b9b1-486e-9a43-8f3e9e6adc25"
+    defaultValue: "19872e79-2eb1-4672-9137-3639c9c3bf3b"
     summary: |-
       The id of the firmware.
   - name: --model
